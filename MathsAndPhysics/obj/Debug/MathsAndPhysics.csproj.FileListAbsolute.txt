@@ -1,0 +1,5 @@
+D:\My Documents\Development\PBC_FDTD_2D\MathsAndPhysics\bin\Debug\MathsAndPhysics.dll
+D:\My Documents\Development\PBC_FDTD_2D\MathsAndPhysics\bin\Debug\MathsAndPhysics.pdb
+D:\My Documents\Development\PBC_FDTD_2D\MathsAndPhysics\obj\Debug\MathsAndPhysics.csproj.CoreCompileInputs.cache
+D:\My Documents\Development\PBC_FDTD_2D\MathsAndPhysics\obj\Debug\MathsAndPhysics.dll
+D:\My Documents\Development\PBC_FDTD_2D\MathsAndPhysics\obj\Debug\MathsAndPhysics.pdb

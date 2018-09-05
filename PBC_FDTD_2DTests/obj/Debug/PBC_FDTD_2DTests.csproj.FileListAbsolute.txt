@@ -1,0 +1,9 @@
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\PBC_FDTD_2DTests.dll
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\PBC_FDTD_2DTests.pdb
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\PBC_FDTD_2D.exe
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\PBC_FDTD_2D.pdb
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\obj\Debug\PBC_FDTD_2DTests.csprojResolveAssemblyReference.cache
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\obj\Debug\PBC_FDTD_2DTests.dll
+D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2DTests\obj\Debug\PBC_FDTD_2DTests.pdb
