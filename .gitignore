@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/2D_FDTD_PBC_Complex/v15
+/.vs/PBC_FDTD_2D/v15
+/.vs
+/DataLayer/obj
+/MathsAndPhysics/obj
+/PBC_FDTD_2D/obj
+/PBC_FDTD_2DTests/obj/Debug
+/PBC_FDTD_2DTests/obj/Release

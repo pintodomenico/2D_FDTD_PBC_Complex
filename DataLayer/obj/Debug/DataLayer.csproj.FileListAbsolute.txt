@@ -4,3 +4,9 @@ D:\My Documents\Development\PBC_FDTD_2D\DataLayer\obj\Debug\DataLayer.csprojAsse
 D:\My Documents\Development\PBC_FDTD_2D\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
 D:\My Documents\Development\PBC_FDTD_2D\DataLayer\obj\Debug\DataLayer.dll
 D:\My Documents\Development\PBC_FDTD_2D\DataLayer\obj\Debug\DataLayer.pdb
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\bin\Debug\DataLayer.dll
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\bin\Debug\DataLayer.pdb
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\obj\Debug\DataLayer.dll
+D:\My Documents\Development\2D_FDTD_PBC_Complex\DataLayer\obj\Debug\DataLayer.pdb

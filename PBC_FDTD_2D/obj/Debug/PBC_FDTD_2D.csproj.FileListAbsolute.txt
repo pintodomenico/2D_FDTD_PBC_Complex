@@ -22,3 +22,15 @@ D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2D\bin\Debug\MathsAndPhysics.dl
 D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2D\bin\Debug\DataLayer.pdb
 D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2D\bin\Debug\MathsAndPhysics.pdb
 D:\My Documents\Development\PBC_FDTD_2D\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.csproj.CopyComplete
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\PBC_FDTD_2D.exe.config
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\PBC_FDTD_2D.exe
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\PBC_FDTD_2D.pdb
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\DataLayer.dll
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\MathsAndPhysics.dll
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\DataLayer.pdb
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\bin\Debug\MathsAndPhysics.pdb
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.csprojAssemblyReference.cache
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.csproj.CoreCompileInputs.cache
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.csproj.CopyComplete
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.exe
+D:\My Documents\Development\2D_FDTD_PBC_Complex\PBC_FDTD_2D\obj\Debug\PBC_FDTD_2D.pdb
